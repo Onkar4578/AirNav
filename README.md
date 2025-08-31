@@ -41,7 +41,7 @@ Here’s how the app looks in action:
 
 ![AirNav UI Preview](image/preview.png)  
 
-*(Save your screenshot as `preview.png` inside an `images/` folder in your repo)*  
+
 
 ---
 
@@ -51,3 +51,4 @@ git clone https://github.com/Onkar4578/AirNav.git
 cd AirNav
 pip install -r requirements.txt
 streamlit run main.py
+
